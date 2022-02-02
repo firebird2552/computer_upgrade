@@ -1,0 +1,8 @@
+{
+  "name": "computer_builds",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/firebird2552/computer_upgrade.git",
+  "author": "firebird2552 <firebird2552@gmail.com>",
+  "license": "MIT"
+}
